@@ -1,0 +1,32 @@
+.banner-bottom {
+  background-image: url(../../images/banner-bottom.JPG), linear-gradient(-225deg, rgba(0,0,0,3) 0%, rgba(0,0,0,1) 50%);
+  color: whitesmoke;
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  text-align: center;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px;
+}
+
+.list-inline i:hover {
+  color: ;
+  transition: color 1s;
+}
+
+.banner-bottom h2{
+  text-align: center;
+}
+
+.list-inline i {
+  color: rgb(230,230,230);
+  width: ;
+}
